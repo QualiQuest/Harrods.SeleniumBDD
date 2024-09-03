@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Harrods_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69394595afaab8ff08823ada2c3aedb281227ca7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Harrods_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Harrods_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
